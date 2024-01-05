@@ -237,3 +237,7 @@ define_sanity_output.txt
 # ezdb
 /db/
 /config/ezdb.txt
+config/dbconfig.txt
+test.dmm
+config/dbconfig.txt
+config/dbconfig.txt
